@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sluicing Dot Net]]></title>
+  <link href="http://sluicing.net/blog/atom.xml" rel="self"/>
+  <link href="http://sluicing.net/blog/"/>
+  <updated>2012-04-08T21:01:08-07:00</updated>
+  <id>http://sluicing.net/blog/</id>
+  <author>
+    <name><![CDATA[Sluicing Networks]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test two]]></title>
+    <link href="http://sluicing.net/blog/blog/2012/04/08/test-two/"/>
+    <updated>2012-04-08T20:30:00-07:00</updated>
+    <id>http://sluicing.net/blog/blog/2012/04/08/test-two</id>
+    <content type="html"><![CDATA[<p>This is test two, publishing to /blog/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://sluicing.net/blog/blog/2012/01/06/hello/"/>
+    <updated>2012-01-06T23:06:00-08:00</updated>
+    <id>http://sluicing.net/blog/blog/2012/01/06/hello</id>
+    <content type="html"><![CDATA[<p>Hello all!  I still need to:</p>
+
+<ul>
+<li>see how to move configure things to get the blog under /blog instead of root</li>
+<li>add / re-add a page for the stereogram text</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
