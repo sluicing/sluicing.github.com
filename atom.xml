@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sluicing Dot Net]]></title>
+  <link href="http://sluicing.net/atom.xml" rel="self"/>
+  <link href="http://sluicing.net/"/>
+  <updated>2011-12-30T12:22:52-08:00</updated>
+  <id>http://sluicing.net/</id>
+  <author>
+    <name><![CDATA[Sluicing Networks]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
