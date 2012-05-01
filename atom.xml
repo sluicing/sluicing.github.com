@@ -4,7 +4,7 @@
   <title><![CDATA[Sluicing Dot Net]]></title>
   <link href="http://sluicing.net/blog/atom.xml" rel="self"/>
   <link href="http://sluicing.net/blog/"/>
-  <updated>2012-04-08T21:48:40-07:00</updated>
+  <updated>2012-04-30T22:29:02-07:00</updated>
   <id>http://sluicing.net/blog/</id>
   <author>
     <name><![CDATA[Sluicing Networks]]></name>
@@ -14,35 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test three]]></title>
-    <link href="http://sluicing.net/blog/blog/2012/04/08/test-three/"/>
-    <updated>2012-04-08T21:41:00-07:00</updated>
-    <id>http://sluicing.net/blog/blog/2012/04/08/test-three</id>
-    <content type="html"><![CDATA[<p>test three</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test two]]></title>
-    <link href="http://sluicing.net/blog/blog/2012/04/08/test-two/"/>
-    <updated>2012-04-08T20:30:00-07:00</updated>
-    <id>http://sluicing.net/blog/blog/2012/04/08/test-two</id>
-    <content type="html"><![CDATA[<p>This is test two, publishing to /blog/</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://sluicing.net/blog/blog/2012/01/06/hello/"/>
-    <updated>2012-01-06T23:06:00-08:00</updated>
-    <id>http://sluicing.net/blog/blog/2012/01/06/hello</id>
-    <content type="html"><![CDATA[<p>Hello all!  I still need to:</p>
+    <title type="html"><![CDATA[Welcome!]]></title>
+    <link href="http://sluicing.net/blog/blog/2012/04/30/welcome/"/>
+    <updated>2012-04-30T22:21:00-07:00</updated>
+    <id>http://sluicing.net/blog/blog/2012/04/30/welcome</id>
+    <content type="html"><![CDATA[<p>Welcome to sluicing.net</p>
 
-<ul>
-<li>see how to move configure things to get the blog under /blog instead of root</li>
-<li>add / re-add a page for the stereogram text</li>
-</ul>
-
+<p>For stupid pictures, try <a href="http://sluicing.tumblr.com">sluicing.tumblr.com</a></p>
 ]]></content>
   </entry>
   
