@@ -4,7 +4,7 @@
   <title><![CDATA[Sluicing Dot Net]]></title>
   <link href="http://sluicing.net/blog/atom.xml" rel="self"/>
   <link href="http://sluicing.net/blog/"/>
-  <updated>2012-07-28T22:42:48-07:00</updated>
+  <updated>2012-07-28T22:44:54-07:00</updated>
   <id>http://sluicing.net/blog/</id>
   <author>
     <name><![CDATA[Sluicing Networks]]></name>
@@ -18,7 +18,7 @@
     <link href="http://sluicing.net/blog/blog/2012/07/28/opus-1-a-big-fireball/"/>
     <updated>2012-07-28T22:28:00-07:00</updated>
     <id>http://sluicing.net/blog/blog/2012/07/28/opus-1-a-big-fireball</id>
-    <content type="html"><![CDATA[<p><a href="http://sluicing.net/blog/opus/1/big-fireball.html">Opus 1: A Big Fireball</a> is a text-only stereogram.</p>
+    <content type="html"><![CDATA[<p><a href="http://sluicing.net/opus/1/big-fireball.html">Opus 1: A Big Fireball</a> is a text-only stereogram.</p>
 
 <p>Source is on github <a href="http://github.com/sluicing/opus/tree/master/1">here</a>.</p>
 
