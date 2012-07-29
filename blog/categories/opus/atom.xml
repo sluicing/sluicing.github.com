@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sluicing Dot Net]]></title>
-  <link href="http://sluicing.net/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: opus | Sluicing Dot Net]]></title>
+  <link href="http://sluicing.net/blog/blog/categories/opus/atom.xml" rel="self"/>
   <link href="http://sluicing.net/blog/"/>
   <updated>2012-07-28T22:42:48-07:00</updated>
   <id>http://sluicing.net/blog/</id>
@@ -18,22 +18,11 @@
     <link href="http://sluicing.net/blog/blog/2012/07/28/opus-1-a-big-fireball/"/>
     <updated>2012-07-28T22:28:00-07:00</updated>
     <id>http://sluicing.net/blog/blog/2012/07/28/opus-1-a-big-fireball</id>
-    <content type="html"><![CDATA[<p><a href="http://sluicing.net/blog/opus/1/big-fireball.html">Opus 1: A Big Fireball</a> is a text-only stereogram.</p>
+    <content type="html"><![CDATA[<p><a href="/opus/1/big-fireball.html">Opus 1: A Big Fireball</a> is a text-only stereogram.</p>
 
 <p>Source is on github <a href="http://github.com/sluicing/opus/tree/master/1">here</a>.</p>
 
 <p>Enjoy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome!]]></title>
-    <link href="http://sluicing.net/blog/blog/2012/04/30/welcome/"/>
-    <updated>2012-04-30T22:21:00-07:00</updated>
-    <id>http://sluicing.net/blog/blog/2012/04/30/welcome</id>
-    <content type="html"><![CDATA[<p>Welcome to sluicing.net</p>
-
-<p>For stupid pictures, try <a href="http://sluicing.tumblr.com">sluicing.tumblr.com</a></p>
 ]]></content>
   </entry>
   
