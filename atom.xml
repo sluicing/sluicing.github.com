@@ -4,7 +4,7 @@
   <title><![CDATA[Sluicing Dot Net]]></title>
   <link href="http://sluicing.net/blog/atom.xml" rel="self"/>
   <link href="http://sluicing.net/blog/"/>
-  <updated>2012-07-28T22:44:54-07:00</updated>
+  <updated>2012-09-02T21:57:41-07:00</updated>
   <id>http://sluicing.net/blog/</id>
   <author>
     <name><![CDATA[Sluicing Networks]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Opus 2: A map of Sid Meier's Pirates! for NES]]></title>
+    <link href="http://sluicing.net/blog/blog/2012/09/02/opus-2-pirates-map/"/>
+    <updated>2012-09-02T21:47:00-07:00</updated>
+    <id>http://sluicing.net/blog/blog/2012/09/02/opus-2-pirates-map</id>
+    <content type="html"><![CDATA[<p><a href="http://sluicing.net/opus/2/pirates-map.png">Opus 2: A map</a> of Sid Meier&#8217;s Pirates! for NES.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Opus 1: A Big Fireball]]></title>
