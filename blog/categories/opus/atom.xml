@@ -4,7 +4,7 @@
   <title><![CDATA[Category: opus | Sluicing Dot Net]]></title>
   <link href="http://sluicing.net//blog/categories/opus/atom.xml" rel="self"/>
   <link href="http://sluicing.net//"/>
-  <updated>2012-09-02T22:09:14-07:00</updated>
+  <updated>2012-09-02T22:18:11-07:00</updated>
   <id>http://sluicing.net//</id>
   <author>
     <name><![CDATA[Sluicing Networks]]></name>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Opus 2: A map of Sid Meier's Pirates! for NES]]></title>
-    <link href="http://sluicing.net//blog/2012/09/02/opus-2-pirates-map/"/>
+    <link href="http://sluicing.net//2012/09/02/opus-2-pirates-map/"/>
     <updated>2012-09-02T21:47:00-07:00</updated>
-    <id>http://sluicing.net//blog/2012/09/02/opus-2-pirates-map</id>
+    <id>http://sluicing.net//2012/09/02/opus-2-pirates-map</id>
     <content type="html"><![CDATA[<p><a href="http://sluicing.net/opus/2/pirates-map.png">Opus 2: A map</a> of Sid Meier's Pirates! for NES.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Opus 1: A Big Fireball]]></title>
-    <link href="http://sluicing.net//blog/2012/07/28/opus-1-a-big-fireball/"/>
+    <link href="http://sluicing.net//2012/07/28/opus-1-a-big-fireball/"/>
     <updated>2012-07-28T22:28:00-07:00</updated>
-    <id>http://sluicing.net//blog/2012/07/28/opus-1-a-big-fireball</id>
+    <id>http://sluicing.net//2012/07/28/opus-1-a-big-fireball</id>
     <content type="html"><![CDATA[<p><a href="http://sluicing.net/opus/1/big-fireball.html">Opus 1: A Big Fireball</a> is a text-only stereogram.</p>
 
 <p>Source is on github <a href="http://github.com/sluicing/opus/tree/master/1">here</a>.</p>
