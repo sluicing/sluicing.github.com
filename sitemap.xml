@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://sluicing.net/blog/blog/2012/04/30/welcome/</loc>
+        <loc>http://sluicing.net//blog/2012/04/30/welcome/</loc>
         <lastmod>2012-04-30T22:28:50-07:00</lastmod>
     </url>
     <url>
-        <loc>http://sluicing.net/blog/blog/2012/07/28/opus-1-a-big-fireball/</loc>
+        <loc>http://sluicing.net//blog/2012/07/28/opus-1-a-big-fireball/</loc>
         <lastmod>2012-07-28T22:44:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://sluicing.net/blog/blog/2012/09/02/opus-2-pirates-map/</loc>
+        <loc>http://sluicing.net//blog/2012/09/02/opus-2-pirates-map/</loc>
         <lastmod>2012-09-02T21:57:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://sluicing.net/blog/blog/archives/</loc>
+        <loc>http://sluicing.net//blog/archives/</loc>
         <lastmod>2012-09-02T21:57:28-07:00</lastmod>
     </url>
     <url>
-        <loc>http://sluicing.net/blog/</loc>
+        <loc>http://sluicing.net//</loc>
         <lastmod>2012-09-02T21:57:28-07:00</lastmod>
     </url>
 </urlset>
